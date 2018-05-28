@@ -1,0 +1,23 @@
+body {
+  background-color: #fff;
+  background-image: url('bg.png');
+  background-position: left top;
+  background-repeat: no-repeat;
+}
+.yframe{
+  float: right;
+  width: 615px !important;
+  height: 378px;
+  border: 15px solid #000;
+}
+.gif-batman {
+  top: 0px;
+  right: 0px;
+  float: right;
+  position: relative;
+  height: 130px;
+  width: 130px;
+}
+.gif-batman img{
+  height: 100%;
+}
